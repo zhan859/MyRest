@@ -1,4 +1,3 @@
-# Academic Project
+# Project
 # MyRest
-#Edit by Hao Zhang
-# MyRest
+#Edit by Brian Zhang
